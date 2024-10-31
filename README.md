@@ -31,6 +31,9 @@
 
 ---
 
+## 🎯 My Motivation
+"Never stop learning and growing. Every challenge is an opportunity for growth."
+
 <!---
 
 ### 🎓 Certifications
