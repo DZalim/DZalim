@@ -10,6 +10,7 @@
 - **Programming Languages:** Python (1+ year), some JavaScript, HTML, CSS.
 - **Frameworks & Libraries:** Django and Flask for web development.
 - **Databases:** Experience with PostgreSQL for data management.
+- **Tools**: Git, GitHub, Pycharm, Visual Studio Code, pgAdmin, Datagrip
 - **Future Plans:** To further explore artificial intelligence and deepen my understanding in AI/ML fields.
 
 ### 🌱 Currently Learning
@@ -26,8 +27,16 @@
   
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DZalim&show_icons=true&theme=tokyonight)
+
+---
 
 <!---
+
+### 🎓 Certifications
+- [Python Developer Certificate](link-to-certificate)
+- [JavaScript Fundamentals](link-to-certificate)
+- [Data Science with Python](link-to-certificate)
 
 - 👋 Hi, I’m @DZalim
 - 👀 I’m interested in ...
