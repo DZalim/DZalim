@@ -19,6 +19,10 @@
 ### 📫 Get in Touch
 - **LinkedIn:** [Dzhansu Zalim](https://www.linkedin.com/in/dzhansu-zalim-b384aa175)
 - **GitHub Portfolio:** Feel free to check out my projects and repositories below!
+
+### 📈 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DZalim&layout=compact&theme=dark)
+
   
 ---
 
