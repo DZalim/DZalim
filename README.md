@@ -27,22 +27,47 @@
   <tr>
     <td>
       <a href="https://res.cloudinary.com/dqweyojf0/image/upload/v1731166235/SoftUniCertificates/mhvbj7sy7qgk26htwkio.png">
-        <img src="https://res.cloudinary.com/dqweyojf0/image/upload/v1731166235/SoftUniCertificates/mhvbj7sy7qgk26htwkio.png alt="Python Advanced" width="200">
+        <img src="https://res.cloudinary.com/dqweyojf0/image/upload/v1731166235/SoftUniCertificates/mhvbj7sy7qgk26htwkio.png" alt="Python Advanced" width="300">
       </a>
       <p><b>Python Advanced </b></p>
     </td>
     <td>
       <a href="https://res.cloudinary.com/dqweyojf0/image/upload/v1731166235/SoftUniCertificates/fjkixzyk8tp6vfiy3uws.png">
-        <img src="https://res.cloudinary.com/dqweyojf0/image/upload/v1731166235/SoftUniCertificates/fjkixzyk8tp6vfiy3uws.png" alt="Python OOP" width="200">
+        <img src="https://res.cloudinary.com/dqweyojf0/image/upload/v1731166235/SoftUniCertificates/fjkixzyk8tp6vfiy3uws.png" alt="Python OOP" width="300">
       </a>
       <p><b>Python OOP</b></p>
     </td>
     <td>
       <a href="https://res.cloudinary.com/dqweyojf0/image/upload/v1731166234/SoftUniCertificates/hng3w0his9xax1gk4ypz.png">
-        <img src="https://res.cloudinary.com/dqweyojf0/image/upload/v1731166234/SoftUniCertificates/hng3w0his9xax1gk4ypz.png" width="200">
+        <img src="https://res.cloudinary.com/dqweyojf0/image/upload/v1731166234/SoftUniCertificates/hng3w0his9xax1gk4ypz.png" width="300">
       </a>
       <p><b>Python ORM</b></p>
     </td>
+    </td>
+    <td>
+      <a href="https://res.cloudinary.com/dqweyojf0/image/upload/v1731166234/SoftUniCertificates/wfsbp8hkjvjrvvgfhe3n.png">
+        <img src="https://res.cloudinary.com/dqweyojf0/image/upload/v1731166234/SoftUniCertificates/wfsbp8hkjvjrvvgfhe3n.png" width="300">
+      </a>
+      <p><b>Django Basics</b></p>
+    </td>
+    <td>
+      <a href="https://res.cloudinary.com/dqweyojf0/image/upload/v1731166234/SoftUniCertificates/eqccgufgsvgjjejqfunm.png">
+        <img src="https://res.cloudinary.com/dqweyojf0/image/upload/v1731166234/SoftUniCertificates/eqccgufgsvgjjejqfunm.png" width="300">
+      </a>
+      <p><b>PostgreSQL</b></p>
+    </td>
+    <td>
+      <a href="https://res.cloudinary.com/dqweyojf0/image/upload/v1731166234/SoftUniCertificates/gvncfbsqiltpszikvnie.png">
+        <img src="https://res.cloudinary.com/dqweyojf0/image/upload/v1731166234/SoftUniCertificates/gvncfbsqiltpszikvnie.png" width="300">
+      </a>
+      <p><b>HTML & CSS</b></p>
+    </td>
+    <td>
+      <a href="https://res.cloudinary.com/dqweyojf0/image/upload/v1731166234/SoftUniCertificates/kmpdfn4h0qghr6xn0uiq.png">
+        <img src="https://res.cloudinary.com/dqweyojf0/image/upload/v1731166234/SoftUniCertificates/kmpdfn4h0qghr6xn0uiq.png" width="300">
+      </a>
+      <p><b>JS Frontd-End</b></p>
+    </td>  
   </tr>
 </table>
 
