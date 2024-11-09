@@ -21,6 +21,31 @@
 - **LinkedIn:** [Dzhansu Zalim](https://www.linkedin.com/in/dzhansu-zalim-b384aa175)
 - **GitHub Portfolio:** Feel free to check out my projects and repositories below!
 
+### 🎓 My Certificates
+
+<table>
+  <tr>
+    <td>
+      <a href="https://res.cloudinary.com/dqweyojf0/image/upload/v1731166235/SoftUniCertificates/mhvbj7sy7qgk26htwkio.png">
+        <img src="https://res.cloudinary.com/dqweyojf0/image/upload/v1731166235/SoftUniCertificates/mhvbj7sy7qgk26htwkio.png alt="Python Advanced" width="200">
+      </a>
+      <p><b>Python Advanced </b></p>
+    </td>
+    <td>
+      <a href="https://res.cloudinary.com/dqweyojf0/image/upload/v1731166235/SoftUniCertificates/fjkixzyk8tp6vfiy3uws.png">
+        <img src="https://res.cloudinary.com/dqweyojf0/image/upload/v1731166235/SoftUniCertificates/fjkixzyk8tp6vfiy3uws.png" alt="Python OOP" width="200">
+      </a>
+      <p><b>Python OOP</b></p>
+    </td>
+    <td>
+      <a href="https://res.cloudinary.com/dqweyojf0/image/upload/v1731166234/SoftUniCertificates/hng3w0his9xax1gk4ypz.png">
+        <img src="https://res.cloudinary.com/dqweyojf0/image/upload/v1731166234/SoftUniCertificates/hng3w0his9xax1gk4ypz.png" width="200">
+      </a>
+      <p><b>Python ORM</b></p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DZalim&layout=compact&theme=tokyonight)
