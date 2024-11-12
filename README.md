@@ -51,6 +51,12 @@
       <p><b>Django Basics</b></p>
     </td>
     <td>
+      <a href="https://res.cloudinary.com/dqweyojf0/image/upload/v1731446227/SoftUniCertificates/yexse5oyp65m9g2g5y6t.png">
+        <img src="https://res.cloudinary.com/dqweyojf0/image/upload/v1731446227/SoftUniCertificates/yexse5oyp65m9g2g5y6t.png" width="300">
+      </a>
+      <p><b>Web Applications with FLASK</b></p>
+    </td>
+    <td>
       <a href="https://res.cloudinary.com/dqweyojf0/image/upload/v1731166234/SoftUniCertificates/eqccgufgsvgjjejqfunm.png">
         <img src="https://res.cloudinary.com/dqweyojf0/image/upload/v1731166234/SoftUniCertificates/eqccgufgsvgjjejqfunm.png" width="300">
       </a>
